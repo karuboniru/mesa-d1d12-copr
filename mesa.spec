@@ -29,6 +29,8 @@
 %global with_vc4       1
 %global with_v3d       1
 %endif
+%global with_d3d12  1
+%global __meson_wrap_mode default
 %global with_freedreno 1
 %global with_kmsro     1
 %global with_panfrost  1
